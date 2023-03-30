@@ -9,5 +9,8 @@ int main() {
     string data;
     getline(cin, data);
     cout << "Output: " << data << "\n\n";
+    
+    cout << "New Line" << "\n\n";
+
     return 0;
 }
